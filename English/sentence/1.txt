@@ -1679,22 +1679,6 @@
 
 	话题 71 保持健康
 
-    I jog every day to stay fit.
-    Aerobics can help people stay in shape.
-    Yoga is very popular among women in China.
-    We should maintain a balance between work and rest.
-    Exercising regularly helps me keep my mind sharp.
-    Practicing Tai Chi is a unique way to stay fit in China.
-    We have free access to many exercise facilities in the community park.
-    We shouldn't do vigorous exercise right after a meal.
-    Older people are advised to do gentle indoor exercises.
-    Exercising the wrong way can be harmful to our health.
-    Lately, health clubs have been popping up like mushrooms after a rain.
-    People living in rural areas have difficulty accessing exercise facilities.
-
-
-	话题 72 理想
-
     Regular exercise is one of the most effective ways to maintain good health.
     Eating a balanced diet rich in fruits, vegetables, and whole grains can significantly improve your overall well-being.
     Getting at least seven to eight hours of sleep every night is essential for both mental and physical health.
@@ -1715,6 +1699,30 @@
     Regularly stretching your body helps maintain flexibility and reduces the risk of injury.
     Keeping a food diary can help you track your eating habits and make healthier choices.
     Listening to your body and knowing when to rest is crucial for avoiding overexertion and staying healthy.
+
+
+	话题 72 理想
+
+    My dream is to become a successful entrepreneur and run my own company.
+    I aspire to travel the world and experience different cultures firsthand.
+    One of my biggest goals is to make a positive impact on the environment.
+    I hope to pursue a career in medicine and help those in need.
+    My ideal future includes living in a peaceful and sustainable community.
+    I want to inspire others by becoming a teacher who makes learning enjoyable.
+    Achieving financial independence is one of my long-term aspirations.
+    I dream of mastering a new language so I can connect with people globally.
+    My ultimate goal is to balance my personal life and career perfectly.
+    I hope to contribute to scientific advancements that improve healthcare.
+    One of my aspirations is to write a book that touches people’s lives.
+    I want to open a charity that provides education to underprivileged children.
+    My dream is to work in a field that aligns with my passion for technology.
+    I aspire to be a leader who motivates others to reach their full potential.
+    Becoming a professional athlete has been a lifelong goal of mine.
+    I hope to create art that resonates with people on a deep emotional level.
+    One of my dreams is to own a home in the countryside and live a simple life.
+    I want to start a nonprofit organization that addresses mental health issues.
+    My ideal career path involves combining creativity and business strategy.
+    I dream of one day being recognized as an expert in my field.
 
 
 	话题 73 在线教育
