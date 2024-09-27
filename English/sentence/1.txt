@@ -325,7 +325,7 @@
     Computer viruses can be very damaging, so it's important to install antivirus software.
     Computers have made it easier for people to collaborate on projects remotely.
     I store most of my important files on the cloud so I can access them from any computer.
-    A solid-state drive (SSD) significantly improves the performance of a computer.
+    A solid-state drive significantly improves the performance of a computer.
     I often use my computer to watch educational videos and tutorials online.
     Artificial intelligence is becoming an increasingly important part of computer science.
     It’s essential to keep your computer’s operating system up to date to avoid security risks.
