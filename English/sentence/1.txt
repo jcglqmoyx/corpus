@@ -790,7 +790,7 @@
     Collaboration with other artists can provide new perspectives and techniques that enrich one's skills.
 
 
-	话题 34 最喜欢的歌
+	话题 34 喜欢的歌曲
 
     My favorite song is one that always lifts my mood, no matter how I'm feeling.
     I love songs with deep lyrics that make me reflect on life and relationships.
@@ -862,7 +862,7 @@
     Ultimately, I hope to retire early and spend more time pursuing my hobbies.
 
 
-	话题 37 长期出国
+	话题 37 海外生活
 
     Living abroad for an extended period helps you gain a deeper understanding of different cultures.
     Being away from home for a long time forces you to adapt to new environments and lifestyles.
@@ -910,7 +910,7 @@
     Making important decisions is a part of growing up, and each choice helps you learn and grow.
 
 
-	话题 39 快乐的事件
+	话题 39 一件高兴的事
 
     One of the happiest moments of my life was when I graduated from college.
     I felt pure joy when my family surprised me with a birthday party.
@@ -982,7 +982,7 @@
     Film is another form of art that I appreciate, especially when it comes to storytelling and visual effects.
 
 
-	话题 42 开公司
+	话题 42 创业
 
     Starting a business requires a solid plan and a clear vision for success.
     It's crucial to research the market thoroughly before launching a new company.
@@ -1126,7 +1126,7 @@
     The cost of owning and maintaining a car can be prohibitive for some people, leading them to use alternative forms of transportation.
 
 
-	话题 48 你的国家
+	话题 48 国家
 
     My country is known for its rich cultural history and beautiful landscapes.
     The people in my country are very hospitable and friendly to visitors.
@@ -1270,7 +1270,7 @@
     Many foreign festivals celebrate the rich heritage and traditions of different cultures.
 
 
-	话题 54 河或湖
+	话题 54 河流与湖泊
 
     The river flows steadily, providing water to the surrounding farmland.
     Many people enjoy fishing in the lake during the summer months.
@@ -1294,7 +1294,7 @@
     Rivers and lakes not only provide water but also support a wide range of recreational activities.
 
 
-	话题 55 最喜欢的公园
+	话题 55 公园
 
     Parks provide a peaceful escape from the hustle and bustle of city life.
     Many parks offer jogging trails that wind through scenic areas.
@@ -1414,7 +1414,7 @@
     I think it’s important to be critical of advertisements and not believe everything they claim.
 
 
-	话题 60 报纸或杂志
+	话题 60 报纸与杂志
  
     I prefer reading newspapers in the morning because they help me stay informed.
     Many people still enjoy the tangible feel of a printed magazine.
@@ -1438,7 +1438,7 @@
     I often cut out articles from magazines to use as inspiration for my creative projects.
 
 
-	话题 61 因特网
+	话题 61 互联网
 
     The internet has revolutionized how we communicate and access information globally.
     Many people rely on the internet for work, shopping, and staying connected with loved ones.
@@ -1750,7 +1750,7 @@
     As technology continues to advance, online education is likely to become an increasingly important part of the learning landscape.
 
 
-	话题 74 时髦的专业
+	话题 74 热门行业
 
     The tech industry is booming, and being a software engineer is considered one of the most fashionable careers today.
     Many young professionals are drawn to data science because of its high demand and impressive salary prospects.
